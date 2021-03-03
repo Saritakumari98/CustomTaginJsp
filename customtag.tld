@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taglib>
+<tlibversion>2.0</tlibversion>
+<jspversion>2.0</jspversion>
+<uri>http://fujitsu.com</uri>
+<shortname>usernameinfo</shortname>
+<info></info>
+<tag>
+<name>displayUser</name>
+<tagclass>com.fujitsu.customTag.ResultHandler</tagclass>
+
+</tag>
+</taglib>
